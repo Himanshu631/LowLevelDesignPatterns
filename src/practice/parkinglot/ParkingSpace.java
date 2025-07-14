@@ -1,4 +1,4 @@
-package examples.parkinglot;
+package practice.parkinglot;
 
 import java.util.ArrayList;
 import java.util.List;

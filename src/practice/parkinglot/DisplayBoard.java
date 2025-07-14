@@ -1,4 +1,4 @@
-package examples.parkinglot;
+package practice.parkinglot;
 
 public class DisplayBoard implements ParkingSpaceObserver{
     @Override

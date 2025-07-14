@@ -1,4 +1,4 @@
-package examples.parkinglot;
+package practice.parkinglot;
 
 public enum VehicleType {
 
